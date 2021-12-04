@@ -1,6 +1,6 @@
 # MyPythonProjects
 
-# COMMS LANGUAGE OF PROGRAMS: RUSSIAN
+# COMMON LANGUAGE OF PROGRAMS: RUSSIAN
 My projects written in Python.
 
 
