@@ -123,3 +123,4 @@ def calc():
             loop = True
             end()
 
+calc()
