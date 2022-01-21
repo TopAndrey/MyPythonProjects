@@ -16,5 +16,5 @@ My projects written in Python.
 # 4. УгадайЧисло.py ★
 *And this is a game within a plot by me. You need to click on the buttons faster to make a number*
 
-#5. CalculatorPlus.py
+# 5. CalculatorPlus.py
 *ThE bEsT cAlCuLaToR iN ThE wOrLd*
